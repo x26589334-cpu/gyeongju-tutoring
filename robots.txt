@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://x26589334-cpu.github.io/gyeongju-tutoring/sitemap.xml
+Sitemap: https://nadoacademy.co.kr/sitemap.xml
