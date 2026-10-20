@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#b0692c"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">경주</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#b0692c"/><path d="M24 51 C 22 40 26 28 28 20 h8 C 38 28 42 40 40 51 Z" fill="#fff"/><rect x="25.5" y="14.5" width="13" height="4" rx="1" fill="#fff"/><rect x="19" y="50.5" width="26" height="4.5" rx="1.5" fill="#fff"/><rect x="29.5" y="32" width="5" height="5" fill="#b0692c"/><g stroke="#b0692c" stroke-width="1.3" opacity=".45"><path d="M25 44h14"/><path d="M27 26h10"/></g></svg>
